@@ -43,13 +43,13 @@ cow.make_sound()
 
 # Polymorphism
 # function overriding
-class Employee:
-    def get_desiganation(self):
-        print("desiganation = Employee")
+# class Employee:
+#     def get_desiganation(self):
+#         print("desiganation = Employee")
 
-class Teacher(Employee):
-    def get_desiganation(self):
-        print("designation = Teacher")
+# class Teacher(Employee):
+#     def get_desiganation(self):
+#         print("designation = Teacher")
 
-t1.Teacher()
-t1.get_desiganation()
+# t1.Teacher()
+# t1.get_desiganation()
